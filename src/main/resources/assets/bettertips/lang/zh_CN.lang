@@ -1,0 +1,25 @@
+item.tooltip.protein=+%d 蛋白质
+item.tooltip.essential_fats=+%d 脂肪
+item.tooltip.phytonutrients=+%d 植物营养素
+item.tooltip.insulin_response=+%d 胰岛素抵抗
+item.tooltip.required_heat_level=需要 %d 热值烧制
+item.tooltip.heat_level=提供 %d 热值
+item.tooltip.burn_time=烧制时间: %d 秒
+item.tooltip.max_quality=最高%d
+item.tooltip.max_enchantability=附魔能效: %d
+item.tooltip.reach_bonus=+%d 触及距离
+attribute.name.reach_bonus=触及距离
+item.tooltip.repair_item=需要 %d 修复
+
+#config
+config.name.bettertips.nutritionInfo=营养值信息
+config.name.bettertips.highLevelEnchantmentInfo=高级附魔信息
+config.name.bettertips.burnInfo=烧制与燃料信息
+config.name.bettertips.CreativeTabInfo=所属创造模式物品栏标签页信息
+config.name.bettertips.modInfo=所属模组信息
+config.name.bettertips.reachBonusInfo=触及距离信息
+config.name.bettertips.unlocalizedNameInfo=未本地化名信息
+config.name.bettertips.maxQualityInfo=最大品质信息
+config.name.bettertips.enchantabilityInfo=附魔能力信息
+config.name.bettertips.repairItemInfo=修复物品信息
+

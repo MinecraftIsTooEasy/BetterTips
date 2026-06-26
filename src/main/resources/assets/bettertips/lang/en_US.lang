@@ -1,0 +1,24 @@
+item.tooltip.protein=+%d Protein
+item.tooltip.essential_fats=+%d Essential Fats
+item.tooltip.phytonutrients=+%d Phytonutrients
+item.tooltip.insulin_response=+%d Insulin Response
+item.tooltip.required_heat_level=Required Heat Level: %d
+item.tooltip.heat_level=Heat Level: %d
+item.tooltip.burn_time=Burn Time: %d S
+item.tooltip.max_quality=%d Max
+item.tooltip.max_enchantability=Enchantability: %d
+item.tooltip.reach_bonus=+%d Reach Bonus
+attribute.name.reach_bonus=Reach Bonus
+item.tooltip.repair_item=Requires %d repair
+
+#config
+config.name.bettertips.nutritionInfo=Nutrition Info
+config.name.bettertips.highLevelEnchantmentInfo=High Level Enchantment Info
+config.name.bettertips.burnInfo=Burn Info
+config.name.bettertips.CreativeTabInfo=Creative Tab Info
+config.name.bettertips.modInfo=Mod Info
+config.name.bettertips.reachBonusInfo=Reach Bonus Info
+config.name.bettertips.unlocalizedNameInfo=Unlocalized Name Info
+config.name.bettertips.maxQualityInfo=Max Quality Info
+config.name.bettertips.enchantabilityInfo=Enchantability Info
+config.name.bettertips.repairItemInfo=Repair Item Info
