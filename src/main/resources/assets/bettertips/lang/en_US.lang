@@ -5,6 +5,7 @@ item.tooltip.insulin_response=+%d Insulin Response
 item.tooltip.required_heat_level=Required Heat Level: %d
 item.tooltip.heat_level=Heat Level: %d
 item.tooltip.burn_time=Burn Time: %d S
+item.tooltip.smelt_item=Smelts %f item(s)
 item.tooltip.max_quality=%d Max
 item.tooltip.max_enchantability=Enchantability: %d
 item.tooltip.reach_bonus=+%d Reach Bonus

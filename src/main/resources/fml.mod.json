@@ -16,8 +16,8 @@
   "icon": "assets/bettertips/icon.png",
   "environment": "client",
   "entrypoints": {
-    "main": [
-      "com.example.ExampleMod"
+    "client": [
+      "net.lee.bettertips.MITEBetterTips"
     ]
   },
   "mixins": [

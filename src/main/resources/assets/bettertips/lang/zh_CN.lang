@@ -5,6 +5,7 @@ item.tooltip.insulin_response=+%d 胰岛素抵抗
 item.tooltip.required_heat_level=需要 %d 热值烧制
 item.tooltip.heat_level=提供 %d 热值
 item.tooltip.burn_time=烧制时间: %d 秒
+item.tooltip.smelt_item=烧制 %f 个物品
 item.tooltip.max_quality=最高%d
 item.tooltip.max_enchantability=附魔能效: %d
 item.tooltip.reach_bonus=+%d 触及距离
